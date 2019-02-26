@@ -23,3 +23,7 @@ publish-prod:
 publish-dev:
 	@echo "[INFO] Publishing dev package"
 	@cd devDependencies && npm publish --access=public
+
+publish-mobx:
+	@echo "[INFO] Publishing mobx package"
+	@cd mobx && npm publish --access=public

@@ -1,0 +1,22 @@
+{
+    "name": "@sudoo/react-force-mobx",
+    "version": "1.0.0",
+    "description": ":pencil2: Mobx for react",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SudoDotDog/Sudoo-React-force.git"
+    },
+    "keywords": [
+        "sudoo"
+    ],
+    "author": "WMXPY",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/SudoDotDog/Sudoo-React-force/issues"
+    },
+    "dependencies": {
+        "mobx": "^5.9.0",
+        "mobx-react": "^5.4.3"
+    },
+    "homepage": "https://github.com/SudoDotDog/Sudoo-React-force#readme"
+}
