@@ -27,3 +27,11 @@ publish-dev:
 publish-mobx:
 	@echo "[INFO] Publishing mobx package"
 	@cd mobx && npm publish --access=public
+
+publish-mongoose:
+	@echo "[INFO] Publishing mongoose package"
+	@cd mongoose && npm publish --access=public
+
+publish-mongoose-dev:
+	@echo "[INFO] Publishing mongoose development package"
+	@cd mongoose-dev && npm publish --access=public

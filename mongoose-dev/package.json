@@ -1,0 +1,22 @@
+{
+    "name": "@sudoo/triforce-mongoose-dev",
+    "version": "1.0.0",
+    "description": ":pencil2: Triforce for Mongoose Development",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SudoDotDog/Sudoo-React-force.git"
+    },
+    "keywords": [
+        "sudoo"
+    ],
+    "author": "WMXPY",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/SudoDotDog/Sudoo-React-force/issues"
+    },
+    "dependencies": {
+        "@types/mongodb": "^3.1.19",
+        "@types/mongoose": "^5.3.20"
+    },
+    "homepage": "https://github.com/SudoDotDog/Sudoo-React-force#readme"
+}
