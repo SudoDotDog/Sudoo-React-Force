@@ -1,6 +1,6 @@
 {
     "name": "@sudoo/triforce-mongoose",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": ":pencil2: Triforce for Mongoose",
     "repository": {
         "type": "git",
@@ -15,7 +15,7 @@
         "url": "https://github.com/SudoDotDog/Sudoo-React-force/issues"
     },
     "dependencies": {
-        "mongoose": "^5.4.16"
+        "mongoose": "5.4.19"
     },
     "homepage": "https://github.com/SudoDotDog/Sudoo-React-force#readme"
 }

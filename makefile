@@ -3,6 +3,8 @@ main: run
 run:
 	@echo "[INFO] Nothing to run"
 
+publish-all: publish-prod publish-dev publish-mobx publish-mongoose publish-mongoose-dev
+
 publish: publish-prod publish-dev
 	@echo "[INFO] Package published"
 
