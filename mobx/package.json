@@ -16,7 +16,7 @@
     },
     "dependencies": {
         "mobx": "5.14.2",
-        "mobx-react": "6.1.4"
+        "mobx-react": "6.1.5"
     },
     "homepage": "https://github.com/SudoDotDog/Sudoo-React-force#readme"
 }
