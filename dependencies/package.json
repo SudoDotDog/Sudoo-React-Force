@@ -1,6 +1,6 @@
 {
     "name": "@sudoo/react-force",
-    "version": "1.6.2",
+    "version": "1.7.0",
     "description": ":pencil2: Triforce for react",
     "repository": {
         "type": "git",
@@ -15,8 +15,8 @@
         "url": "https://github.com/SudoDotDog/Sudoo-React-force/issues"
     },
     "dependencies": {
-        "react": "16.12.0",
-        "react-dom": "16.12.0",
+        "react": "16.13.0",
+        "react-dom": "16.13.0",
         "react-router-dom": "^5.1.2"
     },
     "homepage": "https://github.com/SudoDotDog/Sudoo-React-force#readme"
