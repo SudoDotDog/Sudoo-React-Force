@@ -15,8 +15,8 @@
         "url": "https://github.com/SudoDotDog/Sudoo-React-force/issues"
     },
     "dependencies": {
-        "@types/mongodb": "3.5.4",
-        "@types/mongoose": "5.7.8"
+        "@types/mongodb": "3.5.8",
+        "@types/mongoose": "5.7.12"
     },
     "homepage": "https://github.com/SudoDotDog/Sudoo-React-force#readme"
 }
