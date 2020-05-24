@@ -1,6 +1,6 @@
 {
     "name": "@sudoo/triforce-mongoose",
-    "version": "1.4.1",
+    "version": "1.4.2",
     "description": ":pencil2: Triforce for Mongoose",
     "repository": {
         "type": "git",

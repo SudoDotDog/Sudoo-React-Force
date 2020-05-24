@@ -1,6 +1,6 @@
 {
     "name": "@sudoo/react-force-mobx",
-    "version": "1.4.1",
+    "version": "1.4.2",
     "description": ":pencil2: Mobx for react",
     "repository": {
         "type": "git",
