@@ -37,3 +37,5 @@ publish-mongoose:
 publish-mongoose-dev:
 	@echo "[INFO] Publishing mongoose development package"
 	@cd mongoose-dev && npm publish --access=public
+
+publish-mongoose-all: publish-mongoose publish-mongoose-dev
