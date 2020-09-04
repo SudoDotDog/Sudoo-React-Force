@@ -1,6 +1,6 @@
 {
     "name": "@sudoo/react-force-mobx",
-    "version": "1.4.2",
+    "version": "1.4.3",
     "description": ":pencil2: Mobx for react",
     "repository": {
         "type": "git",
@@ -15,8 +15,8 @@
         "url": "https://github.com/SudoDotDog/Sudoo-React-force/issues"
     },
     "dependencies": {
-        "mobx": "5.15.4",
-        "mobx-react": "6.2.2"
+        "mobx": "5.15.6",
+        "mobx-react": "6.3.0"
     },
     "homepage": "https://github.com/SudoDotDog/Sudoo-React-force#readme"
 }
