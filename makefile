@@ -13,6 +13,10 @@ install:
 	@cd dependencies && yarn install --production=false
 	@cd devDependencies && yarn install --production=false
 
+outdated:
+	@echo "[INFO] Checking Outdated Dependencies"
+	@cd dependencies && yarn outdated
+
 install-prod:
 	@echo "[INFO] Installing Dependencies"
 	@cd dependencies && yarn install --production=true
