@@ -15,8 +15,8 @@
         "url": "https://github.com/SudoDotDog/Sudoo-React-force/issues"
     },
     "dependencies": {
-        "mobx": "5.15.6",
-        "mobx-react": "6.3.0"
+        "mobx": "6.0.1",
+        "mobx-react": "7.0.0"
     },
     "homepage": "https://github.com/SudoDotDog/Sudoo-React-force#readme"
 }
