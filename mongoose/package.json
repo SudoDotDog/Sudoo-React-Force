@@ -15,7 +15,7 @@
         "url": "https://github.com/SudoDotDog/Sudoo-React-force/issues"
     },
     "dependencies": {
-        "mongoose": "5.10.9"
+        "mongoose": "5.12.9"
     },
     "homepage": "https://github.com/SudoDotDog/Sudoo-React-force#readme"
 }
