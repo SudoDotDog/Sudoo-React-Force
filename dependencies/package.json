@@ -15,9 +15,9 @@
         "url": "https://github.com/SudoDotDog/Sudoo-React-force/issues"
     },
     "dependencies": {
-        "react": "16.14.0",
-        "react-dom": "16.14.0",
-        "react-router-dom": "^5.2.0"
+        "react": "17.0.2",
+        "react-dom": "17.0.2",
+        "react-router-dom": "5.2.0"
     },
     "homepage": "https://github.com/SudoDotDog/Sudoo-React-force#readme"
 }
